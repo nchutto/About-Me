@@ -2,7 +2,7 @@
 
  **Data Analytics Student** at SNHU  
  Aspiring **Data Analyst** | **Data Engineer**  
- Desktop Technician | 📊 Google Data Analytics Certified  
+ Desktop Technician |  Google Data Analytics Certified  
  Skills: Python • C++ • SQL • R • Git • Jira
 
 ---
